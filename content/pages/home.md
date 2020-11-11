@@ -1,18 +1,18 @@
 ---
 template: HomePage
 slug: ""
-title: SunSystem
+title: ShareDiary
 featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
-subtitle: お客様を第一に。そして費用対効果の高いシステムの提案。
+subtitle: Web系技術者向けブログ
 meta:
-  description: This is a meta description.
-  title: サンシステム公式HP
+  description: Web系技術ブログ
+  title: ShareDiary
 ---
 
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
 View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
-
+rr
 # Features
 
 - **[Gatsby](https://gatsbyjs.org)** static site generator
